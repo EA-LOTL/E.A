@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Cybersecurity Resesarcher
   - Timeline reconstruction & IOC analysis
   - Incident playbook development
 
-- **Malware Analysis & Reverse Engineering**
+- **Malware Analysis**
   - Static & dynamic analysis
   - Behavioral tracking in sandboxes
 
