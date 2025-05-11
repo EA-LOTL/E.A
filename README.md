@@ -1,69 +1,68 @@
 # E.A
 
-# 👋 Hi, 
+# 👋 Hi, I'm [Your Name]
 
-Welcome to my GitHub! I'm a Cybersecurity Resesarcher
-
----
-
-## 🛡️ Cybersecurity Focus Areas
-
-- **Threat Detection & SIEM Engineering**
-  - Custom detection rules
-  - MITRE ATT&CK coverage
-  - Threat hunting & alert tuning
-
-- **Digital Forensics & Incident Response (DFIR)**
-  - Memory & disk forensics 
-  - Timeline reconstruction & IOC analysis
-  - Incident playbook development
-
-- **Malware Analysis**
-  - Static & dynamic analysis
-  - Behavioral tracking in sandboxes
-
-- **Blockchain Security & Smart Contract Audits**
-  - Manual Solidity review & static analysis
-  - Formal verification (Mythril, Slither)
-  - DeFi protocol analysis
-
-- **Deception Technology (Project in Progress)**
-  - AI-powered honeypots written in TypeScript
-  - Emulates services/networks to detect & manipulate attackers
-  - Expanding to support blockchain, UAVs, aero space & deep-space systems
+🚨 Cybersecurity Analyst | Researcher | Threat Hunter  
+🔍 Blockchain Security • Malware Analysis • Detection Engineering  
+💡 Building Deception AI for Offense-Informed Defense
 
 ---
 
-## 🔧 Projects & Tools
+## 🧠 What I Do
 
-- 🧠 **DeceptiveAI** — A dynamic honeypot powered by AI agents that emulates entire services or protocols.
-- 🛠️ **Smart Contract Security** — Auditing vulnerable Solidity contracts in a local testnet.
-- 🧬 **Malware Lab** — Samples + tooling for unpacking and behavior analysis in safe environments.
-- 🌐 **Threat Detection Rules** — Custom Sigma rules mapped to MITRE ATT&CK tactics.
+- 🎯 **Detection Engineering & IPS/IDS/XDR**
+- 🔬 **Malware Analysis**: Dynamic/Static Analysis
+- 🔐 **Blockchain Security**: Smart contract auditing (Slither, Mythril, Manticore)
+- 📦 **Forensics & DFIR**: Timeline analysis, memory forensics, chain-of-custody
+
+
+- 🛰️ **Research**: Space systems, GNSS spoofing, UAV network threats
+- 🎭 **Deception Tech (WIP)**: AI honeypots that emulate real services
 
 ---
 
-## 📚 Current Interests
+## 🧰 Tools & Languages
 
-- Advanced Persistent Threat (APT) emulation
-- GNSS spoofing defense mechanisms
-- Detection engineering for Kubernetes & cloud-native workloads
-- Blockchain forensics & transaction tracing
+**Languages:** `Python` • `TypeScript` • `Solidity`  
+**Platforms:** `Linux` • `Kubernetes` • `AWS`  
+
+---
+
+## 🔬 Featured Projects & Learning Areas
+
+- 🛡️ `DeceptiveAI`: AI honeypot that lures attackers via false systems/services.
+- 📉 `ThreatDet-Rules`: Detection-as-code Sigma rules mapped to MITRE ATT&CK.
+- 🔗 `Solidity-Audits`: Real-world smart contract audits w/ static & manual analysis.
+- 🧪 `MalwarePlayground`: Reversing & sandboxing malware samples for training.
+
+---
+
+
+---
+
+## 🧠 Currently Learning
+
+- 🕸️ Advanced network traffic forensics
+- ☁️ AWS security automation with Lambda + EventBridge
+- 🤖 Adversarial ML in cyber defense
+- 🛰️ Blockchain + aerospace environments
 
 ---
 
 ## 📜 Certifications
 
-- 🛡️ CompTIA Security+
+- ✅ CompTIA Security+
 
-- ☁️🕵️‍♂️ MSc Cybersecurity & information Assurance [IN PROGRESS]
+- Master of Science; Cybersecurity & Information Assurance [IN PROGRESS]
+
+---
+
+## 📫 Reach Me
+
+- 🌐 [LinkedIn](https://linkedin.com/in/your-link)    [PLACEHOLDER]
+- 📬 [Email](mailto:your@email.com)                   [PLACEHOLDER]
+- 💭 Open to research collabs & OSS contributions
 
 ---
 
-## 📫 Reach Out
-
-I'm always open to collaboration on cybersecurity tooling, research papers, and OSS projects.
-
-
----
 
