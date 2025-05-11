@@ -1,6 +1,8 @@
 # E.A
 
-# 👋 Hi, I'm [Your Name]
+# HELLO, WELCOME TO MY GITHUBPAGE [/]
+
+
 
 🚨 Cybersecurity Analyst | Researcher | Threat Hunter  
 🔍 Blockchain Security • Malware Analysis • Detection Engineering  
