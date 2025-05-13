@@ -25,8 +25,8 @@
 
 ## 🧰Languages
 
-**Languages:** `Python` • `TypeScript` • `Solidity`• `Rust`.
-**Platforms:** `Linux` • `Kubernetes` • `AWS`.
+- **Languages:** `Python` • `TypeScript` • `Solidity`• `Rust`
+- **Platforms:** `Linux` • `Kubernetes` • `AWS`
 
 ---
 
